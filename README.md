@@ -22,9 +22,9 @@ This repository contains implementations of various fundamental sorting algorith
    cd Sorting-Algorithms
 2. Run the Compiled Program
   ./quick_sort
-3. Input Format
+3. Input Format:
     Enter the number of elements. Enter the elements separated by spaces or newlines.
-4. Output
+4. Output:
     The program will display the sorted array on the screen.
 
 ## ✅ Final Thoughts
