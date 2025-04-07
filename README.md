@@ -18,7 +18,7 @@ This repository contains implementations of various fundamental sorting algorith
 ## 📥 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/Sorting-Algorithms.git
+   git clone https://github.com/Ladanividhi/Sorting-Algorithms.git
    cd Sorting-Algorithms
 2. Run the Compiled Program
   ./quick_sort
